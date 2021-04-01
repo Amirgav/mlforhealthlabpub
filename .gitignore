@@ -1,0 +1,6 @@
+
+# Data Folder
+data/*
+out*
+*.csv
+*.xlsx
